@@ -1,7 +1,7 @@
 const Clone = () => {
   return (
     <div>
-      <h1>H ro</h1>
+      <h1>H o</h1>
     </div>
   );
 };
