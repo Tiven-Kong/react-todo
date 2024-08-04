@@ -1,5 +1,5 @@
 const Test = () => {
-  return <div>Requ Contribute</div>;
+  return <div>Requext Contribute</div>;
 };
 
 export default Test;
